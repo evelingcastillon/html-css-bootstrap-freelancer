@@ -43,11 +43,15 @@
     width: 100%;
 }
 
+.download > a {
+    color: white;
+    border: 2px solid white;
+    padding: 0 1rem;
+}
 
 
 
-
-
+/* CONTACT ME */
 .client > input {
     display: block;
     width: 100%;
@@ -68,22 +72,33 @@
     border: 2px solid rgba(26, 188, 156, 1);
 }
 
+/* FOOTER */
+footer {
+    color: white;
+}
+.title {
+    font-size: 20px;
+}
+.social {
+    height: 40px;
+    line-height: 40px;
+}
+.social > i {
+    height: 40px;
+    width: 40px;
+    border: 2px solid;
+    border-radius: 50%;
+    margin: 0.8rem;
+    padding: 0.6rem;
+    vertical-align: middle;
+}
 
-.height50px {
-    height: 50px;
+.green {
+    color: rgba(26, 188, 156, 1);
 }
-.height200px {
-    height: 200px;
+.parag {
+    text-align: center;
 }
-.height300px {
-    height: 300px;
-}
-.height400px {
-    height: 400px;
-}
-.height500px {
-    height: 500px;
-}
-.height600px {
-    height: 600px;
+.last_footer {
+    font-size: 12px;
 }
