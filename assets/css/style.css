@@ -79,6 +79,9 @@ footer {
 .title {
     font-size: 20px;
 }
+.first_footer p {
+    font-size: 13px;
+}
 .social {
     height: 40px;
     line-height: 40px;
